@@ -39,4 +39,4 @@ In total, the steps are:
 3. run the local command described above
 4. Type `localhost:1234` in your browser to open jupyter lab (may have to copy/paste the token from the url the server gives the first time you connect)
 
-Personally, I recommend making functions for steps 1 and 3 in the same way that you made a function for step 2.  I showed you how to do it on linux, I personally do the local commands on windows using `.bat` files (no idea how to do this on mac but I'm sure there's a way).  This way, you only have to type 3 words to connect to a jupyter lab IDE on the server 🤯.
+I recommend making functions for steps 1 and 3 in the same way that you made a function for step 2.  I showed you how to do it on linux, I personally do the local commands on windows using `.bat` files (no idea how to do this on mac but I'm sure there's a way).  This way, you only have to type 3 words to connect to a jupyter lab IDE on the server 🤯.
