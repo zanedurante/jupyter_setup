@@ -1,5 +1,5 @@
 # jupyter_setup
-These are the steps for setting up jupyter lab on the server.  I will add an example notebook soon showing how to run the visualization script + view the visualizations GIFs generated from the MOMA api in jupyter lab.
+These are the steps for setting up jupyter lab on the server.  There is an example workflow notebook `workflow.ipynb`  showing how to run the visualization script + view the visualizations GIFs generated from the MOMA api in jupyter lab.
 
 # Installation
 
